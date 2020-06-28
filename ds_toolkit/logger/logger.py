@@ -170,7 +170,7 @@ def _init_logger(logger):
 	sys.excepthook = logger._exception_handler
 
 
-def get_logger():
+def logger():
 	"""
 	Returns:
 		BaseLogger: Custom logger
