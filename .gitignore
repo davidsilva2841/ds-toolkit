@@ -6,3 +6,7 @@ ds-toolkit.iml
 scratch
 logs
 __pycache__
+
+build/
+dist/
+ds_toolkit.egg-info
