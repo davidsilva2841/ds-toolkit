@@ -3,3 +3,6 @@
 venv
 ds-toolkit.iml
 
+scratch
+logs
+__pycache__
