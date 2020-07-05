@@ -9,10 +9,7 @@ verify_ssl = true
 pandas = "*"
 numpy = "*"
 python-magic = "*"
-<<<<<<< HEAD
-=======
 pyyaml = "*"
->>>>>>> logger
 
 [requires]
 python_version = "3.8"

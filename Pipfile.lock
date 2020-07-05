@@ -1,11 +1,8 @@
 {
     "_meta": {
         "hash": {
-<<<<<<< HEAD
             "sha256": "0df0f606d6408f38f6544836734cbd5bb916d5e1f7274fcd68b5ef78d114e89f"
-=======
             "sha256": "c7272582d10e25f4f82e92c8b38ad047d0b14add3af89825fb47feb692271045"
->>>>>>> logger
         },
         "pipfile-spec": 6,
         "requires": {
