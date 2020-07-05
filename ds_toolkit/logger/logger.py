@@ -1,8 +1,6 @@
 import logging
 import sys
 from datetime import datetime
-from time import time, strftime, localtime
-from datetime import timedelta
 import os
 
 from ds_toolkit.config import config
@@ -160,6 +158,7 @@ def _init_logger(logger):
 	Args:
 		logger (BaseLogger):
 	"""
+	
 	logger.date = datetime.strftime(datetime.now(), '%Y-%m-%d')
 	logger.start_time = _string_from_datetime(datetime.now())
 	logger.setLevel(logging.DEBUG)

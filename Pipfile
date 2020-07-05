@@ -8,6 +8,11 @@ verify_ssl = true
 [packages]
 pandas = "*"
 numpy = "*"
+python-magic = "*"
+<<<<<<< HEAD
+=======
+pyyaml = "*"
+>>>>>>> logger
 
 [requires]
 python_version = "3.8"
