@@ -1,8 +1,16 @@
 [tool.poetry]
 name = "ds-toolkit"
 version = "0.1.2"
-description = ""
+description = "A toolkit full of random & helpful abilities"
 authors = ["David Silva <davidsilva2841+gitlab@gmail.com>"]
+readme = "README.md"
+homepage = "https://gitlab.com/davidsilva2841/ds-toolkit"
+repository = "https://gitlab.com/davidsilva2841/ds-toolkit"
+license = "MIT"
+classifiers = [
+	"Topic :: Utilities",
+	"Topic :: Text Processing :: General"
+]
 
 [tool.poetry.dependencies]
 python = "^3.8"
